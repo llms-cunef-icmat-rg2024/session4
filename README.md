@@ -3,7 +3,7 @@
 This repo contains two examples of differents RLHF methods for two different problems. It relies on the `trl` package from huggingface, 
 [docs here](https://huggingface.co/docs/trl/index).
 
-Install the dependencies with `pip install transformers trl peft`.
+Install the dependencies with `pip install transformers trl peft datasets`.
 
 
 ## Example 1: PPO for Sentiment Analysis
