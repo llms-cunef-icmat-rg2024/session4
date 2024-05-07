@@ -12,7 +12,6 @@ It finetunes the GPT-2 model on IMDB movie review prompts to steer the model tow
 
 [./ppo-sentiment.ipynb](./ppo-sentiment.ipynb) contains the code to run the example.
 
-(Example taken from trl's documentation)
 
 ## Example 2: DPO for Safety
 
